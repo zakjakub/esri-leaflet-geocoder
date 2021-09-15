@@ -1,5 +1,5 @@
-/* esri-leaflet-geocoder - v2.3.4 - Tue Dec 29 2020 16:00:59 GMT-0600 (Central Standard Time)
- * Copyright (c) 2020 Environmental Systems Research Institute, Inc.
+/* esri-leaflet-geocoder - v2.3.4 - Wed Sep 15 2021 14:46:47 GMT+0200 (Středoevropský letní čas)
+ * Copyright (c) 2021 Environmental Systems Research Institute, Inc.
  * Apache-2.0 */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('leaflet'), require('esri-leaflet')) :
